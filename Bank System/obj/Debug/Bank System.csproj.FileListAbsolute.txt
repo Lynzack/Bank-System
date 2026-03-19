@@ -1,0 +1,7 @@
+C:\Users\VICTUS\source\repos\Bank System\Bank System\obj\Debug\Bank System.csproj.AssemblyReference.cache
+C:\Users\VICTUS\source\repos\Bank System\Bank System\obj\Debug\Bank System.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\source\repos\Bank System\Bank System\bin\Debug\Bank System.exe.config
+C:\Users\VICTUS\source\repos\Bank System\Bank System\bin\Debug\Bank System.exe
+C:\Users\VICTUS\source\repos\Bank System\Bank System\bin\Debug\Bank System.pdb
+C:\Users\VICTUS\source\repos\Bank System\Bank System\obj\Debug\Bank System.exe
+C:\Users\VICTUS\source\repos\Bank System\Bank System\obj\Debug\Bank System.pdb
